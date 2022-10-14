@@ -1,11 +1,12 @@
-{
+{  
     "name": "Bhavya Kaudinya",
     
     "title": "Web Developer",
     
     "email": "Docontactmeonsocial@gmail.com",
     
-    "social": {
+    "social": 
+    {
         "website": "In Progress",
         
         "github": "@bhavyakaudinya",
