@@ -1,13 +1,13 @@
 {  
     "name": "Bhavya Kaudinya",
     
-    "title": "Web Developer",
+    "title": "Front-end Web Developer",
     
     "email": "Docontactmeonsocial@gmail.com",
     
     "social": 
     {
-        "website": "In Progress",
+        "website": "nbcbhavya.super.site",
         
         "github": "@bhavyakaudinya",
         
