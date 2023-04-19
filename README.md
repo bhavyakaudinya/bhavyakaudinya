@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhavyakaudinya@gmail.com**
 
-- ⚡ Fun fact **I think this will be fun**
+- ⚡ Fun fact **you don't know how to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
