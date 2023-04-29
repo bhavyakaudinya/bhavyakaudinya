@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 📝 Read my articles or blogs here: <a href="nbcbhavya.super.site">[NBC]Bhavya Blogs</a>
+- 📝 Read my articles or blogs here: [nbcbhavya.super.site]([NBC]Bhavya Blogs)
 
 - 💬 Ask me about **Tech alternatives & tips or Time Management hacks**
 
