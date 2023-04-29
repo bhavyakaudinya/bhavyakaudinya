@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyakaudinya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyakaudinya" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React and React Native**
 
-- 📝 I regularly write articles on [nbcbhavya.super.site](nbcbhavya.super.site)
+- 📝 Read my articles or blogs here: [nbcbhavya.super.site](nbcbhavya.super.site)
 
-- 💬 Ask me about **Productive or Time Management hacks**
+- 💬 Ask me about **Tech alternatives & tips or Time Management hacks**
 
-- 📫 How to reach me **bhavyakaudinya@gmail.com**
+- 📫 Reach me via @**bhavyakaudinya@gmail.com**
 
 - ⚡ Fun fact **you don't know how to code**
 
