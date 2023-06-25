@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyakaudinya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyakaudinya" /> </p>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React and JavaScript**
 
 - 📝 Read my articles or blogs here: https://nbcbhavya.super.site/
 
